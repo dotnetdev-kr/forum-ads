@@ -1,5 +1,8 @@
 # 닷넷데브 포럼 광고 리포지터리
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Deploy static content to Pages](https://github.com/dotnetdev-kr/forum-ads/actions/workflows/static.yml/badge.svg)](https://github.com/dotnetdev-kr/forum-ads/actions/workflows/static.yml)
+
 이 리포지터리는 닷넷데브 포럼 (https://forum.dotnetdev.kr) 웹 사이트에 게시되는 고정 배너와 연결 페이지를 저장하고 관리하는 공개 리포지터리입니다.
 
 ## 광고 게시 절차
